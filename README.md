@@ -1,13 +1,14 @@
 # Game Design Student and 3D Artist
 
-### Portfolio
+## Portfolio
 
 Check out my models on [Sketchfab](https://sketchfab.com/briellebrantner) to view them in 3D space!
 
-Sculpting
+#### Sculpting
 
-Hard Surface Modeling
+#### Hard Surface Modeling
 
-### Resume
+
+## Resume
 
 link to resume on google drive
