@@ -2,7 +2,7 @@
 
 ### Portfolio
 
-link to Sketchfab and Artstation
+Check out my models on [Sketchfab](https://sketchfab.com/briellebrantner) to view them in 3D space!
 
 Sculpting
 
