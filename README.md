@@ -11,4 +11,4 @@ Check out my models on [Sketchfab](https://sketchfab.com/briellebrantner) to vie
 
 ## Resume
 
-link to resume on google drive
+
